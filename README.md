@@ -1,2 +1,5 @@
-theme: jekyll-theme-minimal
+
 # beatrizfmac.github.io
+
+
+theme: jekyll-theme-minimal
